@@ -413,6 +413,7 @@
         <maven-surefire-plugin.version>2.22.1</maven-surefire-plugin.version>
         <maven-nexus-staging-plugin.version>1.6.8</maven-nexus-staging-plugin.version>
         <spring-biz.version>1.1.2.RELEASE</spring-biz.version>
+        <lombok.version>1.18.38</lombok.version>
     </properties>
 
     <dependencyManagement>
